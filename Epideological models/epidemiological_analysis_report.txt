@@ -1,0 +1,22 @@
+
+EPIDEMIOLOGICAL ANALYSIS REPORT
+Generated: 2025-11-30 04:16
+
+SUMMARY:
+- Current effective MMR coverage: 84.2%
+- Gap to measles herd immunity: 7.5%
+- Number of high-risk regions: 9
+- Best policy scenario: School Entry Requirements (+8%)
+- Benefit-cost ratio: 0.09
+
+CRITICAL FINDINGS:
+1. Herd immunity for measles is currently NOT achieved
+2. Several regions remain at high outbreak risk
+3. Policy interventions can significantly reduce outbreak probability
+4. Vaccination programs are cost-effective
+
+URGENT ACTIONS NEEDED:
+- Immediate targeted campaigns in high-risk regions
+- Strengthening of school entry requirements
+- Public health messaging about herd immunity
+        
