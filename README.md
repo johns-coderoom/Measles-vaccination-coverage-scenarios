@@ -4,3 +4,6 @@ This Github repository contains the code used to run age-stratified, metapopulat
 
 # Age Coverage
 <img width="4771" height="1770" alt="age_coverage" src="https://github.com/user-attachments/assets/7efcd5d0-9b77-415b-bc1f-89d019b3ff05" />
+
+# Coverage Map 
+<img width="5351" height="2371" alt="coverage_heatmaps" src="https://github.com/user-attachments/assets/38044ebb-38c3-410e-8e74-e3c1de7ae2d6" />
